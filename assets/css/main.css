@@ -1502,11 +1502,11 @@ input, select, textarea {
 		}
 
 /* Main */
-#intro ul{
+#skills ul{
 	text-align: center;
 	list-style-type: none;
 }
-#intro li {
+#skills li {
 	color: rgb(160, 157, 157);
 }
 
