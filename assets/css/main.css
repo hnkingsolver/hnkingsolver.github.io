@@ -1502,6 +1502,13 @@ input, select, textarea {
 		}
 
 /* Main */
+#intro ul{
+	text-align: center;
+	list-style-type: none;
+}
+#intro li {
+	color: rgb(160, 157, 157);
+}
 
 	#main {
 		-moz-flex-grow: 1;
